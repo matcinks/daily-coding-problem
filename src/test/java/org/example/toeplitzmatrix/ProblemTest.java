@@ -1,4 +1,4 @@
-package org.example.theoplitzmatrix;
+package org.example.toeplitzmatrix;
 
 import org.junit.jupiter.api.Test;
 
